@@ -1,0 +1,17 @@
+{
+  "name": "ec.insuasti.console",
+  "version": "1.0.0",
+  "description": "chat with agents open ai homework",
+  "main": "index.ts",
+  "scripts": {
+    "start": "npx ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.69.0",
+    "ts-node": "^10.9.2"
+  }
+}
